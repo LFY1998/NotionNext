@@ -113,8 +113,8 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '豆花专属空间',
   HEO_SOCIAL_CARD_TITLE_2: '和爸爸妈妈成长的日常',
   HEO_SOCIAL_CARD_TITLE_3: '查看豆花变成猪咪的记录',
-  HEO_SOCIAL_CARD_TITLE_4: '（咬人记录）',
-  HEO_SOCIAL_CARD_URL: '',
+  //HEO_SOCIAL_CARD_TITLE_4: '（咬人记录）',
+  HEO_SOCIAL_CARD_URL: 'https://lfymay23ustc.xyz/',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
